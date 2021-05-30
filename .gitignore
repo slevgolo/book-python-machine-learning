@@ -1,3 +1,7 @@
 /venv/
 /.idea
 .ipynb_checkpoints
+/application/data/input/aclImdb_v1.tar.gz
+/application/data/input/movie_data.csv
+/application/app/Chapter8/aclImdb
+/application/app/Chapter8/movie_data.csv
